@@ -1,2 +1,2 @@
 # Unity-PreloadSigningAlias
-This is for enter auto keystore and alias password in unity
+This is for entering auto keystore and alias password in unity
